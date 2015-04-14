@@ -1,0 +1,28 @@
+{
+  "name": "node-mongo-update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "serve": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pfryga/node-mongo-update.git"
+  },
+  "keywords": [
+    "mongo",
+    "nodejs",
+    "express"
+  ],
+  "author": "scrum-dice@allegro.pl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfryga/node-mongo-update/issues"
+  },
+  "homepage": "https://github.com/pfryga/node-mongo-update",
+  "dependencies": {
+    "express": "^4.12.3",
+    "mongodb": "^2.0.27"
+  }
+}
